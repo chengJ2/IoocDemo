@@ -1,0 +1,13 @@
+========== Memcahce和Redis对比 ============
+
+1.Memcahce和Redis都是用来管理数据的
+
+2.他的的数据都是存放在内存里；
+
+3.Redis可以定期的将数据备份到磁盘（持久性）;
+
+4.Memcahe只手简单的key/value缓存
+
+5.Redis不仅仅支持简单的key/value缓存，同时还提供list,set,hash等结构数据的存储
+
+========== Memcahce和Redis对比 ============
